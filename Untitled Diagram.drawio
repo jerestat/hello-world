@@ -1,1 +1,19 @@
-<mxfile host="www.draw.io" modified="2020-02-19T16:21:12.606Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="hi0g0BwEpPG89xukTxec" version="12.7.2" type="github"><diagram id="vkPhty4duLNAnthuS4pA" name="Page-1">jZJNb4QgEIZ/DUcTxe12z2ttu4dNk3rwTGQqJCiGxaL99cU6fpDNJk04zDzzyQskzZrhzbBOXDUHRWjMB5K+EEqTA6VkOjEfZ/J8RFAbyTFpA4X8AYQx0l5yuAWJVmtlZRfCSrctVDZgzBjtwrQvrcKpHavhDhQVU/e0lNyKmZ6e4o2/g6zFMjmJMdKwJRnBTTCu3Q6lOUkzo7WdrWbIQE3iLbrMda8PoutiBlr7n4LLVbsqP5vok36Ul4iWp8RE2OWbqR4vXOC2dlwkMLpvOUxdYpKenZAWio5VU9T5R/dM2EZ5L/Em9gNjYXi4aLJe3/8b0A1YM/oULDigYGPouk3+ZNFU7KQ/ImP44vXaeBPFG6jL4m76/8V2vzjNfwE=</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-02-19T16:43:19.665Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="UdUnCoAdKWHNp71COZiQ" version="12.7.2" type="github">
+  <diagram id="vkPhty4duLNAnthuS4pA" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hJA_uRhlU9gxzYcgPobj-7" value="&lt;span style=&quot;text-align: left ; white-space: normal&quot;&gt;Rank Items By:&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;text-align: left ; white-space: normal&quot;&gt;&lt;ul style=&quot;text-align: left ; white-space: normal&quot;&gt;&lt;li&gt;Weight,&lt;/li&gt;&lt;li&gt;Cube Movement&lt;/li&gt;&lt;li&gt;Hit Frequency&lt;/li&gt;&lt;/ul&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="20" y="160" width="145" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hJA_uRhlU9gxzYcgPobj-9" value="&lt;ul style=&quot;text-align: left ; white-space: normal&quot;&gt;&lt;li&gt;Rank pick slots by pick path # per WH area&lt;/li&gt;&lt;li&gt;Identify where pick slots are in relation to the aisle break&amp;nbsp;&lt;/li&gt;&lt;li&gt;Identify HS/CF/SW pick slots in the &quot;golden zone&quot;&lt;/li&gt;&lt;/ul&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="205" y="160" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hJA_uRhlU9gxzYcgPobj-10" value="&lt;span style=&quot;white-space: normal&quot;&gt;Obtain a list of selection batch numbers and items selected&lt;/span&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="585" y="10" width="180" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
