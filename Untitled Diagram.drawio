@@ -1,17 +1,38 @@
-<mxfile host="www.draw.io" modified="2020-02-19T16:43:19.665Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="UdUnCoAdKWHNp71COZiQ" version="12.7.2" type="github">
+<mxfile host="www.draw.io" modified="2020-02-19T17:03:33.303Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="IfvFmWP8cLRbKf47BnIv" version="12.7.2" type="github">
   <diagram id="vkPhty4duLNAnthuS4pA" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hJA_uRhlU9gxzYcgPobj-7" value="&lt;span style=&quot;text-align: left ; white-space: normal&quot;&gt;Rank Items By:&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;text-align: left ; white-space: normal&quot;&gt;&lt;ul style=&quot;text-align: left ; white-space: normal&quot;&gt;&lt;li&gt;Weight,&lt;/li&gt;&lt;li&gt;Cube Movement&lt;/li&gt;&lt;li&gt;Hit Frequency&lt;/li&gt;&lt;/ul&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="hJA_uRhlU9gxzYcgPobj-7" value="&lt;span style=&quot;white-space: normal&quot;&gt;Rank Items By:&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;white-space: normal&quot;&gt;&lt;ul style=&quot;white-space: normal&quot;&gt;&lt;li&gt;Weight,&lt;/li&gt;&lt;li&gt;Cube Movement&lt;/li&gt;&lt;li&gt;Hit Frequency&lt;/li&gt;&lt;/ul&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" vertex="1" parent="1">
           <mxGeometry x="20" y="160" width="145" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="hJA_uRhlU9gxzYcgPobj-9" value="&lt;ul style=&quot;text-align: left ; white-space: normal&quot;&gt;&lt;li&gt;Rank pick slots by pick path # per WH area&lt;/li&gt;&lt;li&gt;Identify where pick slots are in relation to the aisle break&amp;nbsp;&lt;/li&gt;&lt;li&gt;Identify HS/CF/SW pick slots in the &quot;golden zone&quot;&lt;/li&gt;&lt;/ul&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="205" y="160" width="240" height="160" as="geometry" />
+        <mxCell id="hJA_uRhlU9gxzYcgPobj-9" value="&lt;ul style=&quot;white-space: normal&quot;&gt;&lt;li&gt;Rank pick slots by pick path # per WH area&lt;/li&gt;&lt;li&gt;Identify where pick slots are in relation to the aisle break&amp;nbsp;&lt;/li&gt;&lt;li&gt;Identify HS/CF/SW pick slots in the &quot;golden zone&quot;&lt;/li&gt;&lt;/ul&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" vertex="1" parent="1">
+          <mxGeometry x="180" y="160" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hJA_uRhlU9gxzYcgPobj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hJA_uRhlU9gxzYcgPobj-10" target="hJA_uRhlU9gxzYcgPobj-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hJA_uRhlU9gxzYcgPobj-10" value="&lt;span style=&quot;white-space: normal&quot;&gt;Obtain a list of selection batch numbers and items selected&lt;/span&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="585" y="10" width="180" height="80" as="geometry" />
+          <mxGeometry x="475" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hJA_uRhlU9gxzYcgPobj-11" value="ItemA, ItemB, Support, Confidence, Lift" style="shape=dataStorage;whiteSpace=wrap;html=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="220" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hJA_uRhlU9gxzYcgPobj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hJA_uRhlU9gxzYcgPobj-13" target="hJA_uRhlU9gxzYcgPobj-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hJA_uRhlU9gxzYcgPobj-13" value="Identify association rules by selection batches" style="rounded=0;whiteSpace=wrap;html=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="110" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hJA_uRhlU9gxzYcgPobj-18" value="odi" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hJA_uRhlU9gxzYcgPobj-19" value="seedpro" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hJA_uRhlU9gxzYcgPobj-20" value="&lt;span style=&quot;white-space: normal&quot;&gt;Rank OpCos overall by: &lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;white-space: normal&quot;&gt;shrink/case received&lt;/span&gt;&lt;/li&gt;&lt;li&gt;total labor hours/case&lt;/li&gt;&lt;li&gt;selection labor hours/case&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="700" width="210" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
